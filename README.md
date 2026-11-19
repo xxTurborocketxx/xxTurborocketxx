@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 TurboRocket
+# 🚀 TurboRCT
 
 **Systems integrator, not a developer.** But when a device says
 "can't be done", I sometimes ask why anyway, and sometimes
@@ -17,10 +17,9 @@ that turns into a project.
 
 ### 🔓 What I do
 
-- **Android tinkering**: root exploits (the ones I did not write myself), custom ROMs, recovery images
+- **Android tinkering**: random stuff like root exploits (the ones I did not write myself), custom ROMs, recovery images
 - **Device integration**: getting hardware to do what it officially cannot
 - **Flashing things**: Odin blindfolded, adb awake, fastboot on a good day
-- **KernelSU & manager wrangling**: jailbreak mode, no bootloader unlock
 
 ### 📦 Projects
 
@@ -30,8 +29,6 @@ that turns into a project.
 | [turborct-website](https://github.com/xxTurborocketxx/turborct-website) | This site's dark purple home: turborct.rip, hosted on Cloudflare Pages | 🟢 Live |
 | TurboUI | Custom ROM for the Galaxy S20 FE (OneUI 5.1 base) | ⚫ EOL |
 | OrangeFox builds | Unofficial recovery builds, S20 FE & S21 FE (Snap + Exynos) | ⚫ Archived |
-
-*Started with a minimally patched TWRP tree. The actual code behind my projects comes from smarter minds; the flash buttons are mine.*
 
 <details>
 <summary><code>./psst --details</code></summary>
